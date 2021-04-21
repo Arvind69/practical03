@@ -1,2 +1,2 @@
 # practical03
-time: 01:04
+time: 07:10
